@@ -1,6 +1,6 @@
 
 def setName(value) {
-    name = value
+    prod.setName('whoa')
 }
 def getName() {
     name
