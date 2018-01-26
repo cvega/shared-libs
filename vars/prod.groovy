@@ -1,5 +1,5 @@
 def setName2(value) {
-    name = value
+    println value
 }
 def getName2() {
     name
