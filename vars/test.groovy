@@ -5,6 +5,6 @@ def setName(value) {
 def getName() {
     name
 }
-def caution(message) {
-    echo "Hello, ${name}! CAUTION: ${message}"
+def msg(message) {
+    echo "Hello, Gilbert! CAUTION: ${message}"
 }
