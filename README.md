@@ -1,2 +1,2 @@
 # shared-libs
-test
+jenkins shared libs pipeline example
